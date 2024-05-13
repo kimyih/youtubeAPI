@@ -19,7 +19,18 @@
 ## 사용 스택
 - node.js 설치 
 
-## 프로젝트 실행
+## 단축키
+
+- rafc : 화살표 함수를 사용하여 함수형 컴포넌트를 생성합니다. (아래 코드 단축키)
+```
+import React from 'react';
+
+const MyComponent = () => {
+  return <div></div>;
+};
+
+export default MyComponent;
+```
 
 
 
